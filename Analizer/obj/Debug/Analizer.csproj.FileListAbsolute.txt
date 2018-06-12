@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\Analizer\Analizer\obj\Debug\Analizer.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Analizer\Analizer\obj\Debug\Analizer.Form1.resources
+C:\Users\USUARIO\source\repos\Analizer\Analizer\obj\Debug\Analizer.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\Analizer\Analizer\obj\Debug\Analizer.csproj.GenerateResource.Cache
+C:\Users\USUARIO\source\repos\Analizer\Analizer\obj\Debug\Analizer.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Analizer\Analizer\bin\Debug\Analizer.exe.config
+C:\Users\USUARIO\source\repos\Analizer\Analizer\bin\Debug\Analizer.exe
+C:\Users\USUARIO\source\repos\Analizer\Analizer\bin\Debug\Analizer.pdb
+C:\Users\USUARIO\source\repos\Analizer\Analizer\obj\Debug\Analizer.exe
+C:\Users\USUARIO\source\repos\Analizer\Analizer\obj\Debug\Analizer.pdb
